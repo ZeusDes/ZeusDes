@@ -1,5 +1,5 @@
 ```
-[![Header](https://raw.githubusercontent.com/ZeusDes/ZeusDes/HelloBanner.png "Header")]### Hi there 👋
+![Header](https://raw.githubusercontent.com/ZeusDes/ZeusDes/HelloBanner.png "Header")
 ```
-
-### Here are some ideas to get you started:
+### Hi there 👋
+<!--### Here are some ideas to get you started:-->
