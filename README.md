@@ -23,8 +23,8 @@ My name is Muhammad Ahmad, and i'm a Software Engineering student.
 ![](https://img.shields.io/badge/Tools-QT-informational?style=flat&logo=QT&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Paradigm-OOP-informational?style=flat&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Skill-Problem_Solving-informational?style=flat&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Topic-Algorithms-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Topic-Data_Structures-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Topic-Algorithms-informational?style=flat&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Topic-Data_Structures-informational?style=flat&logoColor=white&color=2bbc8a)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZeusDes&count_private=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
