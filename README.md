@@ -4,7 +4,7 @@
     <img src="https://raw.githubusercontent.com/ZeusDes/ZeusDes/main/Assets/wave.gif" alt="Waving hand animated gif" height="45"/>
 </h1>
 <p>
-My name is *Muhammad Ahmad*, and i'm a Software Engineering student.
+My name is Muhammad Ahmad, and i'm a Software Engineering student.
 
 [![](https://img.shields.io/badge/Download_my_Resume-informational?style=flat&color=FFFFFF)](https://github.com/ZeusDes/ZeusDes/raw/main/Assets/Muhammad_Ahmad_Resume.pdf)
 </p>
