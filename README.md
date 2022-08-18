@@ -6,7 +6,7 @@
 <p>
 My name is Muhammad Ahmad, and i'm a Software Engineering student.
     
-[![](https://img.shields.io/badge/Download_my_Resumé-informational?style=flat&color=FFFFFF)](https://github.com/ZeusDes/ZeusDes/raw/main/Assets/Muhammad_Ahmad_Resume.pdf)
+[![](https://img.shields.io/badge/Download_my_Resumé-informational?style=flat&color=FFFFFF)](https://github.com/ZeusDes/ZeusDes/raw/main/Assets/MuhammadAhmad_Resume.pdf)
 </p>
 
 ## 👨‍💻 Skills and Languages
