@@ -26,7 +26,7 @@ My name is Muhammad Ahmad, and i'm a Software Engineering student.
 ![](https://img.shields.io/badge/Topic-Algorithms-informational?style=flat&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Topic-Data_Structures-informational?style=flat&logoColor=white&color=2bbc8a)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZeusDes&count_private=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZeusDes&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 🌱 I’m currently learning
 - Database Systems
